@@ -3,5 +3,6 @@
 	"user devices": 
 	 		
 			{ "device_1": "Iphone XR",
-			"device_2": "Samsung" }
+			  "device_2": "Samsung M30s",
+			  "device_3": "iPad 10 pro"	}
 }
