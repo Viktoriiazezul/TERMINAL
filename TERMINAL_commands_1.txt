@@ -1,5 +1,0 @@
-cd
-pwd
-mkdir
-ls
-touch
